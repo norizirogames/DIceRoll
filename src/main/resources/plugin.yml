@@ -1,0 +1,17 @@
+name: DicerollPlugin
+main: com.example.diceroll.DicerollPlugin
+version: 1.0
+api-version: 1.8
+commands:
+  d:
+    description: ダイスを振ります
+    usage: /d 1d100 または /d100
+  sd:
+    description: シークレットダイス
+    usage: /sd 1d100 または /sd100
+  d100:
+    description: 1d100専用ダイス
+    usage: /d100
+  sd100:
+    description: シークレット1d100専用ダイス
+    usage: /sd100

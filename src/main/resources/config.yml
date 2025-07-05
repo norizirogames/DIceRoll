@@ -1,0 +1,4 @@
+cooldown: 1
+public-format: "%player% [%dice%] 結果: %rolls% 合計: %total%"
+secret-format: "[シークレット] %player% [%dice%] 結果: %rolls% 合計: %total%"
+console-format: "[CONSOLE] [%dice%] 結果: %rolls% 合計: %total%"
