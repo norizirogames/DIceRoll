@@ -33,6 +33,9 @@ Example output:
 
 - Tested on PaperMC / Spigot 1.20–1.21 (may work on other versions too)
 
+> **The default language is Japanese. You can change it by editing `plugins/DicerollPlugin/config.yml`.**
+
+
 
 ## 📄 License
 
