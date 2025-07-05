@@ -15,11 +15,9 @@
 2. Start or reload your server
 3. Players can type:
 
-/roll 3d20
+` /roll 3d20`
 
-Example output:
-
-[Dice] PlayerName rolled 3d20 → [12, 3, 17] (Total: 32)
+`Example output: [Dice] PlayerName rolled 3d20 → [12, 3, 17] (Total: 32)`
 
 
 ### ⚠ Valid Range
